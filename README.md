@@ -10,3 +10,4 @@ This simple webpage displays:
 It is implemented as a single `index.html` file using basic HTML and in-line CSS.
 
 ## 2. Deployment URL
+https://bettyp23.github.io/basic-html-page/
